@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\bin\Debug\net6.0\PB503-metodsTask.exe
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\bin\Debug\net6.0\PB503-metodsTask.deps.json
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\bin\Debug\net6.0\PB503-metodsTask.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\bin\Debug\net6.0\PB503-metodsTask.dll
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\bin\Debug\net6.0\PB503-metodsTask.pdb
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.dll
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\refint\PB503-metodsTask.dll
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.pdb
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\PB503-metodsTask.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB503-metodsTask\PB503-metodsTask\obj\Debug\net6.0\ref\PB503-metodsTask.dll
